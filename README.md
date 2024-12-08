@@ -18,7 +18,7 @@ Both models were fine-tuned using the **Simple Transformers library**[5], with t
 
 ## **Discussion**  
 
-The experiments highlight the critical importance of domain-specific pretraining for NLP tasks in specialized fields like biomedicine. The **biobert-base-cased-v1.2** model consistently outperformed its general-purpose counterpart, **bert-base-cased**, across both Multi-Class Classification and NER tasks. This underscores the effectiveness of leveraging domain-specific knowledge for enhanced performance in biomedical NLP applications.  
+The experiments highlight the critical importance of domain-specific pretraining for NLP tasks in specialized fields like biomedicine. The **biobert-base-cased-v1.2** model consistently outperformed **bert-base-cased**, across both Multi-Class Classification and NER tasks. This underscores the effectiveness of leveraging domain-specific knowledge for enhanced performance in biomedical NLP applications.  
 
 ---
 
